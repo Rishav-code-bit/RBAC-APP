@@ -1,5 +1,4 @@
 # RBAC-APP
-# RBAC-system
 Role-Based Access Control (RBAC) API is a backend solution for managing access control in applications. It allows for defining roles, permissions, and user assignments, ensuring secure and scalable authorization management.
 
 ## Features
